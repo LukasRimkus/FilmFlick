@@ -8,6 +8,7 @@
 3. How to install the required libraries
 4. How to run the server 
 5. FilmFlick's Database
+6. APIs
 
 ---------------------------------------------
    ### 1. What is FilmFlick?
@@ -77,7 +78,6 @@ The information regarding users and user reviews have been cleared for the sake 
 ### 6. APIs
 ---------------------------------------------
 <p>The information how to receive OMDB API key can be found here: https://www.omdbapi.com/. The other API which has been used is this one - https://rapidapi.com/amrelrafie/api/movies-tvshows-data-imdb.</p>
----------------------------------------------
 
 <p>© FILMFLICK 2020-2021 - W2 Group</p>
 
