@@ -73,6 +73,11 @@ When you wish to stop the server, simply press "ctrl + c" on the respective term
 Due to this local cache of films, the database must remain intact with the rest of the application for the sake of functionality of the site.<br>
 The information regarding users and user reviews have been cleared for the sake of submission.</p>
 
+---------------------------------------------
+### 6. APIs
+---------------------------------------------
+<p>The information how to receive OMDB API key can be found here: https://www.omdbapi.com/. The other API which has been used is this one - https://rapidapi.com/amrelrafie/api/movies-tvshows-data-imdb.</p>
+---------------------------------------------
 
 <p>© FILMFLICK 2020-2021 - W2 Group</p>
 
